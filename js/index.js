@@ -22,7 +22,7 @@ canvas.addEventListener('mousemove', function(e) {
 
 canvas.addEventListener('click', function(e) {
  ctx.fillRect(0, 0, canvas.width, canvas.height); {
- window.location.href = "index.html";
+ window.location.href = "landing.html";
  }
 });
 
