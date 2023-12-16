@@ -3,7 +3,8 @@ showcase:
   enable: true
   title: "Hello, I’m Mitesh."
   subtitle: "Co-founder"
-  description: "I work at <a target='_blank' href='https://arcn.one/'>ARC</a>, a non-profit organization. I like to call myself an Arcevalian - you get the idea. This website was built with Hugo. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I work at <a target='_blank' href='https://arcn.one/'>ARC</a>, a non-profit organization. I like to go by Aeviator - you get the idea.</p>
+    <p>This website was built with Hugo. If you would like to use this theme to build a website with Hugo, you can find it <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>here</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
