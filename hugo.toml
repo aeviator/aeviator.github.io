@@ -1,4 +1,4 @@
-baseURL = "aeviator.github.io"
+baseURL = ""
 languageCode = "en-us"
 title = "Mitesh Mahtani"
 theme = "raditian-free-hugo-theme"
