@@ -1,0 +1,96 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Mitesh."
+  subtitle: "Co-founder"
+  description: "I work at <a target='_blank' href='https://arcn.one/'>ARC</a>, a non-profit organization. I like to call myself an Arcevalian - you get the idea. This website was built with Hugo. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://arcn.one/contact"
+
+  socialLinks:
+    - icon: "github"
+      URL: "https://github.com/arcn-one"
+
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/company/arcn-one/"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/arcn_one"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/arcn.one/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/arcn.one/"
+
+# about
+about:
+  enable: true
+  title: "About Me"
+  content: '<p class="lead">
+    I usually find myself drifting toward the ocean, the views are stunning.
+    I am passionate about learning and sharing knowledge - ideally I would be teaching cyber security,
+    however I still have a lot to learn. In my spare time I enjoy working out and
+    catching up on the latest tech news.
+    </p>
+    <p class="lead">
+    My areas of focus lie in leadership and development. I enjoy coding, and finding innovative ways 
+    to break into systems in order to secure them just as much as I enjoy team-work, which 
+    enables me to iterate, ergo improving on the processes in order to reach business goals.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "More"
+    URL: "https://www.linkedin.com/company/arcn-one/"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of the People"
+      year: "2022-202x"
+      degree: "Bachelor of Science in Computer Science (BSCS)"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I co-founded <a target='_blank' href='https://arcn.one/'>ARC</a> earlier this year (2023)
+    with a long time <a target='_blank' href='https://dhanudhara.github.io'>colleague</a> of mine."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/arcn-one/"
+
+  items:
+    - title: "Co-founder"
+      company: "ARC"
+      duration: "Nov 2022"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  email:
+    title: "Email"
+    email: '<a href="mailto:hello@arcn.one">hello@arcn.one</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
