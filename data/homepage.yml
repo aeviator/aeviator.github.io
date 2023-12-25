@@ -115,7 +115,7 @@ client_and_work:
         _2x: ""
       is_even: true
     - title: "Portfolio Website"
-      description: ""
+      description: "Developed a personal portfolio and blog site using Hugo, showcasing a client's skills, experiences, and projects in a clean, responsive, and SEO-optimized design."
       button:
         icon: "icon-arrow-right"
         btnText: "View Site"
