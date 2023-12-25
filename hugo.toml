@@ -3,24 +3,31 @@ languageCode = "en-us"
 title = "Mitesh Mahtani"
 theme = "raditian-free-hugo-theme"
 
-# Plugins
-[params.plugins]
+[params]
 
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "css/main.css"
-  [[params.plugins.css]]
-  URL = "css/rad-icons.css"
-  [[params.plugins.css]]
-  URL = "css/custom.css"
+  sections = ["showcase", "about", "education", "experience", "contact"]
 
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "js/rad-animations.js"
-  [[params.plugins.js]]
-  URL = "js/sticky-header.js"
-  [[params.plugins.js]]
-  URL = "js/library/fontfaceobserver.js"
+  [params.logo]
+    text2 = "Mitesh Mahtani"
+  
+  # Plugins
+  [params.plugins]
+
+    # CSS Plugins
+    [[params.plugins.css]]
+    URL = "css/main.css"
+    [[params.plugins.css]]
+    URL = "css/rad-icons.css"
+    [[params.plugins.css]]
+    URL = "css/custom.css"
+
+    # JS Plugins
+    [[params.plugins.js]]
+    URL = "js/rad-animations.js"
+    [[params.plugins.js]]
+    URL = "js/sticky-header.js"
+    [[params.plugins.js]]
+    URL = "js/library/fontfaceobserver.js"
 
 
 # navigation
@@ -45,11 +52,3 @@ theme = "raditian-free-hugo-theme"
   name = "Contact"
   URL = "#contact"
   weight = 3
-
-
-[params]
-
-  sections = ["showcase", "about", "education", "experience", "contact"]
-
-  [params.logo]
-    text2 = "Mitesh Mahtani"
