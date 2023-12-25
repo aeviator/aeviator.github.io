@@ -2,6 +2,7 @@
 homepage:
   head:
     title: "Aeviator"
+
 # showcase
 showcase:
   enable: true
@@ -93,25 +94,35 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
-  enable: false
+  title: "Projects"
+  enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: ""
+        _2x: ""
+      alt: "ARC"
   
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "ARC - Early Warning System for Adverse Weather"
+      description: "In order to aid with disaster management, early warning systems must be in place. With this system in place ARC will be able to better predict adverse weather and support affected communities better."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Source Code"
+        URL: "https://github.com/arcn-one/weather-app-python-backend"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: ""
+        _2x: ""
+      is_even: true
+    - title: "Portfolio Website"
+      description: ""
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Site"
+        URL: "https://dhanudhara.github.io"
+      image:
+        x: ""
+        _2x: ""
       is_even: true
 
 # contact

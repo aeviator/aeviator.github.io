@@ -5,7 +5,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "contact"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "contact"]
 
   [params.logo]
     text2 = "Mitesh Mahtani"
