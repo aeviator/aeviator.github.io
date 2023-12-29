@@ -111,7 +111,7 @@ client_and_work:
         btnText: "Source Code"
         URL: "https://github.com/arcn-one/weather-app-python-backend"
       image:
-        x: ""
+        x: "img/work/web-design.jpg"
         _2x: ""
       is_even: true
     - title: "Portfolio Website"
@@ -121,7 +121,7 @@ client_and_work:
         btnText: "View Site"
         URL: "https://dhanudhara.github.io"
       image:
-        x: ""
+        x: "img/work/portfolio-website-dhanut.jpg"
         _2x: ""
       is_even: true
 
