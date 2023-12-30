@@ -80,8 +80,8 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I co-founded <a target='_blank' href='https://arcn.one/'>ARC</a> earlier this year (2023)
-    with a long time <a target='_blank' href='https://dhanudhara.github.io'>colleague</a> of mine."
+  description: "I co-founded <a target='_blank' href='https://arcn.one/'>ARC</a> on the 12th of August 2023
+    with a long time <a target='_blank' href='https://dhanudhara.github.io'>colleague</a>."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -90,7 +90,7 @@ experience:
   items:
     - title: "Co-founder"
       company: "ARC"
-      duration: "Nov 2022"
+      duration: "Aug 2023"
 
 # Client & Work
 client_and_work:
