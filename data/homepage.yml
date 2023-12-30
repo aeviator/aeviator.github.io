@@ -28,14 +28,14 @@ showcase:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/company/arcn-one/"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/arcn_one"
+    - icon: "facebook"
+      URL: "https://www.facebook.com/arcn.one/"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/arcn.one/"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com/arcn.one/"
+    - icon: "twitter"
+      URL: "https://twitter.com/arcn_one"
 
 # about
 about:
