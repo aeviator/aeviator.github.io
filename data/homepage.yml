@@ -1,7 +1,6 @@
-# homepage
-homepage:
-  head:
-    title: "Aeviator"
+# head
+head:
+  title: "Aeviator"
 
 # showcase
 showcase:
